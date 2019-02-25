@@ -1,0 +1,13 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/_alu0100821390/_TFG_Plaza_Oculus/Scenes/CityModelRoom.unity
+    guid: 26f80cfcc319c994581c67f5b988e9e4
+  - enabled: 1
+    path: Assets/_alu0100821390/_TFG_Plaza_Oculus/Scenes/AdelantadoSquare.unity
+    guid: 8d04f40156d80a241be0b4506fe27f70
